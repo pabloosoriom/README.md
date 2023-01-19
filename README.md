@@ -1,28 +1,29 @@
-#¡Welcome to my profile!
+<h1 align="center">¡Welcome to my profile!</h1>
 
-##About me
+<h3 aling="left">About me</h3>
 Hi, I´m Pablo A. Osorio Marulanda, a master´s student in Applied Mathematics at Universidad EAFIT with a Bachelor in Mathematical Engineering. One of my favorite things to do is to learn, which is why I use most of my life energy to feed my thirst for knowledge. I like to transversalize my life with different currents of disserniments, which makes me passionate about mathematics, art, philosophy and sciences. 
 
 ------------
 
 
-####Some things I am 
-- :tw-1f30c: I am currently on the journey of learning philosophy of science, and ethics applied to artificial intelligence. 
+<h4 aling="left">Some things I am </h4> 
 
-- :fa-cubes: Enthusiast of mathematics, statistics, data science and AI.
+- 🏺 I am currently on the journey of learning philosophy of science, and ethics applied to artificial intelligence. 
 
-- :tw-1f3ad: I love poetry, drawing, painting, music, and movies.
+- 👨🏻‍💻 Enthusiast of mathematics, statistics, data science and AI.
 
--  :tw-1f52c: About my research career https://onx.la/3f167
+- 🎭 I love poetry, drawing, painting, music, and movies.
 
--  :tw-1f464: About my experiences and professional profile  https://onx.la/9a33f
+- 🔬 About my research career https://onx.la/3f167
 
-- :tw-1f4e8: Contact me at paosoriom@eafit.edu.co 
+- 🧐 About my experiences and professional profile  https://onx.la/9a33f
+
+- 📯 Contact me at paosoriom@eafit.edu.co 
 
 ------------
 
 
-###Conect with me: 
+<h3 align="left">Conect with me: </h3>
 <p align="left"><a href="https://www.linkedin.com/in/pablo-alberto-osorio-marulanda-a21bb11b0/">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" /> </a> <a href="https://www.researchgate.net/profile/Pablo_Osorio5"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="30" />
 </a> 
