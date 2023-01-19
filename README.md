@@ -34,13 +34,8 @@ Hi, I´m Pablo A. Osorio Marulanda, a master´s student in Applied Mathematics a
 
 
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloosoriom&show_icons=true&locale=en&layout=compact" alt="pabloosoriom" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pabloosoriom&show_icons=true&locale=en" alt="pabloosoriom" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pabloosoriom&" alt="pabloosoriom" /></p>
-
-
-
-
