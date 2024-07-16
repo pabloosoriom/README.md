@@ -36,4 +36,4 @@ Hi, I´m Pablo A. Osorio Marulanda, a master´s student in Applied Mathematics a
 
 [![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloosoriom)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paosoriom&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pabloosoriom&hide_longest_streak=true)](https://git.io/streak-stats)
